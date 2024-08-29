@@ -3,9 +3,11 @@ This Python program provides a simple interface for gathering information about 
 
 ![image](https://github.com/user-attachments/assets/71955afe-d123-4441-8865-91180169245f)
 
-#Installation
+# How To Install
 1. Copy & Paste the code to your code editor
 2. Install these 3 libraries by typing the code below into the terminal. :
    - pip install python-whois
    - pip install dnspython
    - pip install requests
+  
+   
