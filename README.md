@@ -12,7 +12,7 @@ This Python program provides a simple interface for gathering information about 
    - pip install requests
 
 # Tech Stack
-https://youtu.be/2w9LSvZyCGk
+- Python
 
 # Demo
 https://youtu.be/2w9LSvZyCGk?si=wEKA2EcLxTE2pBA7
